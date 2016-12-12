@@ -3,7 +3,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 What Each Command Should Do
 
-# node liri.js my-tweets
+**Strong node liri.js my-tweets **
 
 This will show your last 20 tweets and when they were created at in your terminal/bash window.
 
